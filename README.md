@@ -1,4 +1,4 @@
-# USEFUL REGISTER FORM AUTOMATED ATTRIBUTES - SRI LANKA FORMAT
+# USEFUL REGISTER FORM AUTOMATED ATTRIBUTES - SRI LANKA FORMAT 
 
 An automated and useful form attributes (Province, District, City, Fixed Telephone) selecting web form for common Sri Lankan Web applications.
 
@@ -24,3 +24,5 @@ Please make sure to update the tests as appropriate.
 ## Author
 [© Kalana Hettiarachchi](https://www.linkedin.com/in/kalanahe/)
   
+  
+  ![Image of Yaktocat](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png)
