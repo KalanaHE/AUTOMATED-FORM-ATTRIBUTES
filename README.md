@@ -8,7 +8,7 @@ An automated and useful form attributes (Province, District, City, Fixed Telepho
 
 ```html
 -Sri Lankan provinces are provided in a list
--According to the province you selected district list will appear
+-According to the province you selected districts list will appear
 -According to the district you selected list of cities list will appear and also you can type your own in case your city is not listed
 -According to the district you selected the fixed telephone number prefix will auto-filled.
 ```
