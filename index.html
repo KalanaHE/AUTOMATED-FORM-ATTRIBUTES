@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<!-- 
+    
+Feel free to edit and use
+© Kalana Hettiarachchi
+https://www.linkedin.com/in/kalanahe/ 
+
+-->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>SL_REG_FORM</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/script.min.js"></script>
+
+    <!-- Import Province/ District/Fixed telephone  info -->
+    <script type="text/javascript" src="citychange.js"></script>
+    <script type="text/javascript" src="districtchange.js"></script>
+    <script type="text/javascript" src="fxtpchange.js"></script>
+
+</head>
+
+<body>
+    <div class="container text-center"><br>
+        <h4 class="text-uppercase" data-bs-hover-animate="rubberBand">Register Form Automated Attributes - Sri Lanka Format </h4>
+        <hr>
+        <div class="form-group">
+            <form>
+                <div class="form-row">
+                    <div class="col">
+                        <label>Province</label>
+                        <select class="form-control" id="province" autofocus>
+                            <option value=""></option>
+                            <option value="Western">Western</option>
+                            <option value="Eastern">Eastern</option>
+                            <option value="Central">Central</option>
+                            <option value="North Central">North Central</option>
+                            <option value="Northern">Northern</option>
+                            <option value="North Western">North Western</option>
+                            <option value="Sabaragamuwa">Sabaragamuwa</option>
+                            <option value="Southern">Southern</option> 
+                            <option value="Uva">Uva</option>  
+                        </select>
+                    </div>
+
+                    <div class="col">
+                        <label>District</label>
+                        <select class="form-control" id="district" name="district">
+                            
+                        </select>
+                    </div>
+
+                <div class="col">
+                    <label>City</label>
+                    <input class="form-control" type="text" list="cityi" id="city">
+                    <datalist id="cityi"></datalist>
+                </div>
+
+                <div class="col">
+                    <label>Fixed Telephone</label>
+                    <section id="fxtpi">
+                        <input type="text" class="form-control" name="fxtp" maxlength="14" id="fxtp"  autocomplete="off">
+                    </section>
+                </div>
+
+
+
+
+    </div>
+    <br><br>
+
+
+
+    </form>
+    </div>
+        <div class="alert alert-info" role="alert">
+
+            Sri lankan provinces are provided in a list <hr>
+            According to the province you selected district list will appear <hr>
+            According to the district you selected list of cities list will appear and also you can type your own in case your city is not listed <hr>
+            According to the district you selected the fixed telephone number prefix will autofilled. <hr>
+            © Kalana Hettiarachchi <br>
+            <a href="https://www.linkedin.com/in/kalanahe/">https://www.linkedin.com/in/kalanahe/</a>
+
+        </div>
+ 
+    </div>
+    
+
+</body>
+
+</html>
