@@ -1,4 +1,4 @@
-# REGISTER FORM AUTOMATED ATTRIBUTES - SRI LANKA FORMAT
+# USEFUL REGISTER FORM AUTOMATED ATTRIBUTES - SRI LANKA FORMAT 
 
 An automated and useful form attributes (Province, District, City, Fixed Telephone) selecting web form for common Sri Lankan Web applications.
 
@@ -8,7 +8,7 @@ An automated and useful form attributes (Province, District, City, Fixed Telepho
 
 ```html
 -Sri Lankan provinces are provided in a list
--According to the province you selected district list will appear
+-According to the province you selected districts list will appear
 -According to the district you selected list of cities list will appear and also you can type your own in case your city is not listed
 -According to the district you selected the fixed telephone number prefix will auto-filled.
 ```
@@ -24,3 +24,5 @@ Please make sure to update the tests as appropriate.
 ## Author
 [© Kalana Hettiarachchi](https://www.linkedin.com/in/kalanahe/)
   
+  
+  ![Image of Yaktocat](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png)
