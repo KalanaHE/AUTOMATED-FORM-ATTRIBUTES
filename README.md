@@ -2,7 +2,7 @@
 
 An automated and useful form attributes (Province, District, City, Fixed Telephone) selecting web form for common Sri Lankan Web applications.
 
-
+  ![](demo.gif)
 
 ## How this works?
 
@@ -30,4 +30,4 @@ Please make sure to update the tests as appropriate.
   
   ![Image of Yaktocat](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png)
   
-  ![](demo.gif)
+
