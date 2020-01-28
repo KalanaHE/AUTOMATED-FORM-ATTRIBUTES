@@ -22,7 +22,7 @@ Pull requests are welcome.
 Please make sure to update the tests as appropriate.
 
 ## Demo
-[SL_Web_Form_Fields] (http://35.244.50.5/SL_Web_Form_Fields)
+[SL_Web_Form_Fields](http://35.244.50.5/SL_Web_Form_Fields)
 
 ## Author
 [© Kalana Hettiarachchi](https://www.linkedin.com/in/kalanahe/)
