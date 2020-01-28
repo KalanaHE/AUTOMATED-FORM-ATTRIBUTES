@@ -29,3 +29,5 @@ Please make sure to update the tests as appropriate.
   
   
   ![Image of Yaktocat](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png)
+  
+  ![](demo.gif)
